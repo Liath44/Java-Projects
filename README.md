@@ -8,3 +8,4 @@ Few things worth noting:
 2) By default i'm using IntelliJ as my Java IDE therefore project files have IntelliJ stuff inside them.
 3) Though projects lack ToDo comment there are things that need to be done regarding some of them (adding comments, general improvements, explaining purpose etc.). Sooner or later it will be done.
 4) Feedback is greately appreciated: maciek_dra@wp.pl
+a
