@@ -1,5 +1,6 @@
 # Java-Projects
 Hi
+
 This repository is used to hold Java projects that were done by me during the course of my Objective Programming and Java classes. The intent of it is to showcase my progress and capabilities in subject matters.
 Few things worth noting:
 1) Most of the projects are done in Polish - Quite understandable considering my descent though irritating for foreign readers. It's doubtful i'll ever want to refactor it.
